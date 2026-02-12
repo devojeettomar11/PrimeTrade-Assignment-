@@ -16,3 +16,5 @@
 ```bash
 cd backend
 npm install
+###2. For Run
+npm run dev
