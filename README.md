@@ -1,4 +1,4 @@
-# PrimeTrade Internship Assignment (Full Stack)
+# PrimeTrade (Full Stack)
 
 This project is a full-stack application built as part of the PrimeTrade Internship Assignment.
 
